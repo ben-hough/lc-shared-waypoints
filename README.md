@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/SharedWaypoints. This repo is archived and read-only; full history was preserved there.
+
 # SharedWaypoints
 
 Lethal Company BepInEx QoL mod — drop a waypoint that appears on every modded player's fixed top-right HUD panel **and** on the ship radar / map video feeds (including CrewMonitors dedicated map feeds that copy the main map camera culling mask).
